@@ -1,6 +1,7 @@
 body{
     background: #fff;
-    font-family:monospace;
+    font-family:'Times New Roman', Times, serif;
+    border-top: 20px solid #bc5555;
 }
     img{
         width: 50%;
