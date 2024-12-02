@@ -1,0 +1,49 @@
+html {
+    background-color: #f9f6f5;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 35px;
+    color:rgb(15, 15, 15);
+    border-top: 10px solid black;
+}
+
+h1{
+    font-size: 3.3em;
+    margin: 0;
+}
+
+p{
+    line-height: 1.2em;
+}
+
+#blog {
+    border-top: 2px solid black;
+    color: black;
+    padding: 5px;
+}
+
+.Post {
+    border-bottom: 1px solid black;
+}
+
+img{
+  width: 20%
+}
+
+.author {
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: 500;
+}
+
+.datetime {
+    font-weight: 500;
+}
+
+a[author] {
+    font-family: serif;
+}
+
+
