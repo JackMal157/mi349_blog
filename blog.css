@@ -1,3 +1,27 @@
-body {
+html {
     background-color: #f9f6f5;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 35px;
+    color:rgb(15, 15, 15);
+    border-top: 10px solid black;
+}
+
+h1{
+    font-size: 4em;
+    margin: 0;
+}
+
+p{
+    line-height: 1em;
+}
+
+#blog {
+    border-top: 1px black;
+}
+
+.Post {
+    border-bottom: 1px black;
 }
