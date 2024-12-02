@@ -29,6 +29,17 @@ p{
 }
 
 img{
-  width: 40%
+  width: 20%
 }
+
+.author {
+    font-family: monospace;
+    font-size: medium;
+    font-weight: 500;
+}
+
+.datetime {
+    font-weight: 500;
+}
+
 
