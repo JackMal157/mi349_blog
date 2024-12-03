@@ -28,9 +28,8 @@ p{
     border-bottom: 1px solid black;
 }
 
-.img{
+img {
     width: 20%;
-    float: right;
 }
 
 .author {
@@ -41,4 +40,8 @@ p{
 
 .datetime {
     font-weight: 500;
+}
+
+.bailey {
+    float: right;
 }
