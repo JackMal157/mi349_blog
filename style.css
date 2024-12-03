@@ -29,6 +29,7 @@ p{
 }
 
 img {
+    float: left;
     width: 20%;
 }
 
@@ -48,7 +49,3 @@ img {
     padding: 8px;
 }
 
-.baileyd {
-    float: left;
-    padding: 0 10px 0 0;
-}
