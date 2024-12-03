@@ -28,12 +28,13 @@ p{
     border-bottom: 1px solid black;
 }
 
-img{
-  width: 20%
+.img{
+    width: 20%;
+    float: right;
 }
 
 .author {
-    font-family: monospace;
+    font-family:'Times New Roman', Times, serif;
     font-size: medium;
     font-weight: 500;
 }
@@ -41,5 +42,3 @@ img{
 .datetime {
     font-weight: 500;
 }
-
-
