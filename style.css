@@ -42,7 +42,13 @@ img {
     font-weight: 500;
 }
 
-.bailey{
+.bailey {
     float: right;
-    margin-right: 10px;
+    margin-right: 0 15px 15px 0;
+    width: 300px;
+}
+
+.picture-and-content {
+    max-width: 800px;
+    margin: auto;
 }
