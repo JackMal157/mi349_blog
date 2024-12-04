@@ -16,6 +16,9 @@ h1{
 
 p{
     line-height: 1.2em;
+    width: 800px;
+    margin: 8px;
+    padding-right: 50px;
 }
 
 #blog {
@@ -30,9 +33,9 @@ p{
 
 img {
     float: right;
-    width: 10%;
-    height: 10%;
-    padding-right: 400px;
+    width: 11%;
+    height: 11%;
+    padding-right: 500px;
 }
 
 .author {
@@ -45,9 +48,5 @@ img {
     font-weight: 500;
 }
 
-.picture-and-content {
-    width: 800px;
-    margin: 8px;
-    padding-right: 50px;
-}
+
 
